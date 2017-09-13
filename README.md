@@ -1,6 +1,8 @@
 # my-android-animation
 Animating views using ValueAnimator and ObjectAnimator classes.
 
+![Image1](./app/src/main/assets/screenshot0.png)
+
 ### Animations:
 
 #### Launch a rocket 
