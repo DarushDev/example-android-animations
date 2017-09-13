@@ -8,7 +8,7 @@ import android.view.View;
 import com.example.myandroidanimation.R;
 
 public abstract class BaseAnimationActivity extends AppCompatActivity {
-  public static final long DEFAULT_ANIMATION_DURATION = 2500L;
+  public static final long DEFAULT_ANIMATION_DURATION = 1500L;
   protected View mRocket;
   protected View mDoge;
   protected View mFrameLayout;
