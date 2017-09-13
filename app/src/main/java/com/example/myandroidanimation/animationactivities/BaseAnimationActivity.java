@@ -22,8 +22,8 @@ public abstract class BaseAnimationActivity extends AppCompatActivity {
 
     mRocket = findViewById(R.id.rocket);
     mDoge = findViewById(R.id.doge);
-
     mFrameLayout = findViewById(R.id.container);
+
     mFrameLayout.setOnClickListener(new View.OnClickListener() {
       @Override
       public void onClick(View v) {
