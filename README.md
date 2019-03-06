@@ -1,4 +1,4 @@
-# my-android-animation
+# Example Android Animations
 Animating views using ValueAnimator and ObjectAnimator classes.
 
 ![Image1](./app/src/main/assets/screenshot0.png)
